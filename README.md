@@ -1,9 +1,15 @@
 # A+ Notları
 Bu repo, A+ alanında bilgisayar donanımı ve ağ teknolojileriyle ilgili notlar içermektedir.
+
 Eren Uğur tarafından yazılmıştır. Destek olmak için repoyu yıldızlayabilirsiniz.
-UYARI: Notlarda yanlışlık olabilir. Sibergüvenlik alanında uzmanlaşmak için bu notları tutuyorum. Eğer yanlışlık görürseniz düzeltebilirsiniz.
+
+UYARI-1: Notlarda yanlışlık olabilir. Sibergüvenlik alanında uzmanlaşmak için bu notları tutuyorum. Eğer yanlışlık görürseniz düzeltebilirsiniz.
+
 UYARI-2: Bazı terimlerin Türkçede karşılığı başka olabilir. Bildiklerimi yazdım ama bilemediklerimi öyle bıraktım.
+
 Notları aldığım youtube kanalı burasıdır isteyen izleyebilir: https://www.youtube.com/watch?v=2eLe7uz-7CM
+
+Benim youtube kanalıma da buradan ulaşabilirsiniz: https://www.youtube.com/channel/UCxzGRsMQAHqUyePMM5q0-bA
 
 
 ## Klavye
