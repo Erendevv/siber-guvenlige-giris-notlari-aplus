@@ -68,9 +68,11 @@ Ya da internet aracılığıyla bağlanabilir. (ethernet ya da wireless)
 **1-Inkjet Printers (Mürekkepli Yazıcılar)**
 
 Evde en çok kullanılan. Yazdırma çubuğu mürekkebi kağıda çok küçük noktalar halinde yerleştirir.
+
 **2-Lazer Yazıcılar**
 
 Yüksek kalite çıktı. Pahalıdır.
+
 **3-Termal Yazıcılar**
 
 Sıcaklığı kullanarak yazar. Özel bir termal kağıt kullanır. Termal kağıdın balmumu bazlı mürekkebi vardır. Mürekkebe ısı uygulandığında siyaha döner. Yazdırma çubuğu mürekkebin yerleştirilmesi gereken alanlara ısı uygular. Genellikle etiket ve barkod yazdırmak için kullanılır.
