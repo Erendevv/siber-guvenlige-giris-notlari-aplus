@@ -65,7 +65,7 @@ En yüksek çözünürlük = en iyi görüntü
 Local connection -- usb
 Ya da internet aracılığıyla bağlanabilir. (ethernet ya da wireless)
 
-** 1-Inkjet Printers (Mürekkepli Yazıcılar)**
+**1-Inkjet Printers (Mürekkepli Yazıcılar)**
 
 Evde en çok kullanılan. Yazdırma çubuğu mürekkebi kağıda çok küçük noktalar halinde yerleştirir.
 **2-Lazer Yazıcılar**
