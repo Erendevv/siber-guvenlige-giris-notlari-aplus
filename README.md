@@ -9,13 +9,13 @@ Notları aldığım youtube kanalı burasıdır isteyen izleyebilir: https://www
 ## Klavye
 bilgisara komut girmemizi sağlar(6 pin kablo girişi ya da usb girişi)
 
-#Scanner(Tarayıcı)
+## Scanner(Tarayıcı)
 Dijital kopyayı fiziksele çevirir.
 
-#Medya Kart Okuyucu
+## Medya Kart Okuyucu
 hafıza kartlarını bilgisayarın okumasını sağlar micro sd kart yeri de olur
 
-#KVM Switch
+## KVM Switch
 Birden çok bilgisayarı bir ekranda kullanmaya izin verir
 
 ![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/a81194b5-c6be-4cb6-bdd7-a1700c3d239d)
