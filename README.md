@@ -78,27 +78,94 @@ Yüksek kalite çıktı. Pahalıdır.
 Sıcaklığı kullanarak yazar. Özel bir termal kağıt kullanır. Termal kağıdın balmumu bazlı mürekkebi vardır. Mürekkebe ısı uygulandığında siyaha döner. Yazdırma çubuğu mürekkebin yerleştirilmesi gereken alanlara ısı uygular. Genellikle etiket ve barkod yazdırmak için kullanılır.
 **4-Virtual Printing(Sanal yazıcı)**
 
-Dosyayı yazdırmak istiyorsun ama yazıcın yok dosyayı print to file olarak kaydet ve sonra yazdır ya da usbye  atıp başka bir yerde yazdır.
+Dosyayı yazdırmak istiyorsun ama yazıcın  yok dosyayı print to file olarak kaydet ve sonra yazdır ya da usbye  atıp başka bir yerde yazdır.
+
+## DEPOLAMA CİHAZLARI
+
+Bilgisayar, temel olarak iki tür belleğe sahiptir. Birincil ve ikincil. Birincil geçici. İkincil kalıcıdır. Hard disk gibi.(sabit disk)
+
+Verilerin saklandığı manyetik diski içeren kapalı kutu.
+
+Hard drives Serial ATA(SATA) arayüzünü kullanır. SATA eski Parallel ATA yani PATA'dan çok daha hızlı.
+
+SATA -> Buna veri taşıma teknolojisi diyebiliriz. Transfer hızı ortalama 6Gb/s, daha ufak kablolara sahip.
+
+**Solid State Drive (SSD)**
+
+hareketli parça yok
+veri aktarımı çok hızlı
+
+**Hybrid Drive (Hibrit Sabit Disk, Karma Sürücü)**
+
+manyetik disk(verileri depolamak) ve flash bellek(verilerin önbelleğe alınması) kullanımını birleştirir
+Klasik sabit diskin yüksek kapasite avantajı ile SSD'nin hız avantajını birleştiriyor.
 
 
+**Tape (Teyp sürücüsü)**
+
+sabit sürücünüzdeki verileri yedeklemenin ucuz bir yolu
+USB ile kullanılır genelde
+veriler kasete sırayla yedeklenir
+verileri geri yüklemek için, verileri yedeklediğiniz sırayla geri yüklemeniz gerekir
 
 
+**CD-ROM**
 
+cd-rom, kompakt diskin salt okunur belleğinden gelir; bu, verilerin yalnızca okunabileceği ve değiştirilemeyeceği veya üzerine yazılamadığı anlamına gelir.
 
+**CD-RW**
 
+cd-rw sürücüsü verileri bir CD'ye yazabilir veya değiştirebilir.
 
+CD-R --> yalnızca bir kez yazılabilir Kaydedilebilir(Recordable)
 
+CD-RW-> Birçok kez yazılabilir. Yeniden yazılabilir(rewriteable)
 
+CD 700MB veri tutabilir
 
+**DVD-ROM**
 
+yaklaşık 4.7 GB veri tutabilir.
 
+DVD-RW
 
+dvd-rw sürücüsü DVD'ye veri yazabilir veya değiştirebilir.
 
+Verileri DVD-R diskine yazar ve verileri DVD-RW disklerine birçok kez yazar.
 
+**BLU-RAY**
 
+Yüksek kapasiteye sahip. 25 GB veri tutabilir.
 
+**Thumb(flaşbellek,usb bellek)**
 
+hızlı ve kullanışlı veri depolama
 
+**SD Card (Secure digital card,güvenlikli dijital kart)**
 
+Öncelikle dijital kameralarda kullanıldı.
+Farklı boyut varyasyonları var 2GB-512GB aralığında
+ 
+**Depolama kartları** 
 
+Diğer SD kart türleri arasında mini SD ve mikro SD bulunur. Micro sd kart akıllı telefonlarda kullanılıyor genelde. Ekstra bir depolama alanı oluşturmak için
+
+kompakt flash kart, fotoğraf ve videoların dslr kameralarda hızlı ve kolay bir şekilde saklanmasını sağlar 
+
+![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/46dd207f-60cb-412e-a115-9659bea7847d)
+
+**eMMC (gömülü multimediacard)**
+
+Taşınabilir cihazlar için uygun bir depolama aracıdır. Düşük maliyet, enerji verimliliği, küçük boyut. Telefon,tablet
+
+**Hot spares**
+
+RAID yapılandırmalarında(sabit sürücülerde veri okuma ve yazma için birden fazla sabit sürücüyü aynı anda farklı şekillerde kullanarak yapılan veri depolama yapılandırmasıdır.) güvenilirlik sağalamak için bir yük devretme mekanizması olarak çalışır. Boşta yedek olarak bekleyen diske denir.
+
+![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/ddeaec29-edf0-4f8a-8146-654a03195392)
+
+**Cold Spares**
+
+Hot spares ile benzer ama bunda ekipman parçasını değiştirmeden önce güç kapatılmalıdır.
+Hot spares'te güç kapatılmadan da değiştirilebilir.
 
