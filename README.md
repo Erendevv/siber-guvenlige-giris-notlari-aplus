@@ -486,15 +486,15 @@ Video Yakalama Kartı (Video Capture)
 
 Kullanıcının, örneğin bir video kameradan analog video çekmesine ve ardından bunu dijital forma dönüştürmesine ve daha sonra bilgisayarında saklamasına olanak tanır.
 
-![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/5dbba462-2cba-49eb-93f6-3f101299d9fa)
 
+
+![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/2ca8c166-f826-4931-9a67-8c2eb6686687)
 
 TV Alıcısı Kartı (TV Tuner Card)
 
 Televizyondan gelen sinyallerin bilgisayar tarafından alınmasını sağlar. Bilgisayardan televizyonu izleyebilir programları kaydedebilirsin.
 
-![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/2ca8c166-f826-4931-9a67-8c2eb6686687)
-
+![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/5dbba462-2cba-49eb-93f6-3f101299d9fa)
 
 NIC (Network Interface Card)(Ağ Arayüz Kartı)
 
@@ -506,8 +506,8 @@ Bir ağa sürekli olarak özel bir bağlantı sağlar
 
 Her NIC'in MAC adresi adı verilen kendine özgü bir tanımlayıcısı vardır.
 
-![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/1f35692e-c95d-4501-8ef0-38b780d05bc4)
 
+![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/ac1518bf-5781-4d0b-8532-241ac81349b3)
 
 Wireless NIC(Kablosuz)
 
@@ -520,8 +520,8 @@ PCMCIA KART
 PC kartı dizüstü bilgisayarlar için bir genişletme kartıdır
 Dizüstü bilgisayara ilave yetenek kazandıran harici yuvaya sokulur.
 
-![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/ac1518bf-5781-4d0b-8532-241ac81349b3)
 
+![image](https://github.com/Erendevv/siber-guvenlige-giris-notlari-aplus/assets/77689529/1f35692e-c95d-4501-8ef0-38b780d05bc4)
 
 
 
